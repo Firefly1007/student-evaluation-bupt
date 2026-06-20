@@ -1,5 +1,5 @@
 ---
-name: student-evaluation
+name: student-evaluation-bupt
 description: BUPT 教务系统学生期末评教自动化工具。当用户提到以下场景时使用：评教、学生评价、期末评教、教学评价、课程评价，或者用户在 jwgl.bupt.edu.cn 教务系统上需要批量完成课程评价时。即使用户只是说帮我评教、把评教做了、评价一下老师这类简短请求，也应该触发此技能。
 ---
 
