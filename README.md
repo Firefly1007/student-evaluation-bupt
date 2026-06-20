@@ -12,7 +12,7 @@
 ## 安装
 
 ```bash
-npx @anthropic-ai/skills install Firefly1007/student-evaluation-bupt
+npx skills add Firefly1007/student-evaluation-bupt
 ```
 
 安装后，在对话中提到"评教"即可自动触发。
