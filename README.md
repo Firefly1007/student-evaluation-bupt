@@ -66,6 +66,7 @@ var IMPROVEMENT = '';     // "改进建议"文本框内容
 
 - 已登录 BUPT 教务系统（jwgl.bupt.edu.cn）
 - 可用的浏览器自动化 MCP（如 Playwright MCP、QoderWork 内置浏览器连接器等）
+- 不要求多模态模型
 
 ## 文件结构
 
